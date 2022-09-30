@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**Yourmix-Jnr/Yourmix-Jnr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Michael Victor.
+
+I’m a Front-End Developer located in Nigeria. I have a serious passion for UI effects, animations and creating intuitive, dynamic user experiences.
+
+I focus on HTML, CSS and Javascript. And I also use frontend frameworks such as Bootstarp, Tailwind and React.
+
+Adobe XD, Figma and ProtoPie are my design stack software.
+
+PHP, JAVA and Nodejs are some backend I'm proficient at, but PHP is still my favorite.
+
+I have passion for technology and how it solves specific problems daily. Its my desire to contribute my quota to making the world a much better place using technology.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on ... React
+- 💬 Ask me about ... frontend
+- 📫 How to reach me: ... webtor.xyz
+- ⚡ Fun fact: ... I love programming
