@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... frontend
 - 📫 How to reach me: ... webtor.xyz
 - ⚡ Fun fact: ... I love programming
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64808eb940cee644b2893862?variant=dark&roadmaps=frontend)](https://roadmap.sh)
