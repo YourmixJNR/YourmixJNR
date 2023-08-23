@@ -2,7 +2,7 @@
 
 I'm Michael Victor.
 
-I’m a Front-End Developer located in Nigeria. I have a serious passion for UI effects, animations and creating intuitive, dynamic user experiences.
+I’m a Front-End Engineer located in Nigeria. I have a serious passion for UI effects, animations and creating intuitive, dynamic user experiences.
 
 I focus on HTML, CSS and Javascript. And I also use frontend frameworks such as Bootstarp, Tailwind and React.
 
