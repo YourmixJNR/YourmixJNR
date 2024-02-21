@@ -1,22 +1,17 @@
 ### Hi there 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/-micahaelvictor-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michael-victor-57615925a/)](https://www.linkedin.com/in/michael-victor-57615925a/) [![Twitter Badge](https://img.shields.io/badge/-YourmixJNR-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/YourmixJNR)](https://twitter.com/YourmixJNR)
+
+## About Me
+
 I'm Michael Victor.
 
 I’m a Front-End Engineer located in Nigeria. I have a serious passion for UI effects, animations and creating intuitive, dynamic user experiences.
 
-I focus on HTML, CSS and Javascript. And I also use frontend frameworks such as Bootstarp, Tailwind and React.
+## Wakatime
 
-Adobe XD, Figma and ProtoPie are my design stack software.
+[![wakatime](https://wakatime.com/badge/user/68a7e582-ae3d-4996-b4d8-f6769baec513.svg)](https://wakatime.com/@68a7e582-ae3d-4996-b4d8-f6769baec513)
 
-PHP, JAVA and Nodejs are some backend I'm proficient at, but PHP is still my favorite.
-
-I have passion for technology and how it solves specific problems daily. Its my desire to contribute my quota to making the world a much better place using technology.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... React
-- 💬 Ask me about ... frontend
-- 📫 How to reach me: ... webtor.xyz
-- ⚡ Fun fact: ... I love programming
+## Roadmap
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64808eb940cee644b2893862?variant=dark&roadmaps=frontend)](https://roadmap.sh)
