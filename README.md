@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-micahaelvictor-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michael-victor-57615925a/)](https://www.linkedin.com/in/michael-victor-57615925a/) [![Twitter Badge](https://img.shields.io/badge/-YourmixJNR-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/YourmixJNR)](https://twitter.com/YourmixJNR)
 
-### :man_technologist: About Me :
+## :man_technologist: About Me :
 
 #### I'm Michael Victor.
 
