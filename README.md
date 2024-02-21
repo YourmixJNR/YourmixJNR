@@ -8,6 +8,6 @@
 
 #### I’m a Front-End Engineer located in Nigeria. I have a serious passion for UI effects, animations and creating intuitive, dynamic user experiences.
 
-## Wakatime
+## :fire: Wakatime Stats :
 
 [![wakatime](https://wakatime.com/badge/user/68a7e582-ae3d-4996-b4d8-f6769baec513.svg)](https://wakatime.com/@68a7e582-ae3d-4996-b4d8-f6769baec513)
