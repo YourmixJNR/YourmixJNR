@@ -1,6 +1,6 @@
 # Hi there 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-micahaelvictor-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michael-victor-57615925a/)](https://www.linkedin.com/in/michael-victor-57615925a/) [![Twitter Badge](https://img.shields.io/badge/-YourmixJNR-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/YourmixJNR)](https://twitter.com/YourmixJNR)
+[![Linkedin Badge](https://img.shields.io/badge/-micahaelvictor-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourmixjnr/)](https://www.linkedin.com/in/yourmixjnr/) [![Twitter Badge](https://img.shields.io/badge/-YourmixJNR-1ca0f1?style=for-the-badge&logo=x&logoColor=white&link=https://x.com/YourmixJNR)](https://x.com/YourmixJNR)
 
 ## :man_technologist: About Me :
 
