@@ -6,7 +6,7 @@
 
 **I'm Michael Victor.**
 
-**I’m a Front-End Engineer located in Nigeria. I have a serious passion for UI effects, animations and creating intuitive, dynamic user experiences.**
+**I’m a passionate Software Engineer specializing in Frontend Engineering with over two years of experience building responsive, high-performance applications**
 
 ## :zap: committers.top Rank :
 
