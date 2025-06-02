@@ -8,7 +8,7 @@
 
 **I’m a passionate Software Engineer specializing in Frontend Engineering with over two years of experience building responsive, high-performance applications**
 
-## Skills
+## :fire: Skills :
 
 <!-- SKILLS:START -->
 <p>
@@ -22,7 +22,7 @@
 <a>&nbsp;</a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" title="TypeScript" /></a>
 <a>&nbsp;</a>
-<a href="https://soliditylang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solidity-colored.svg" width="36" height="36" alt="Solidity" title="Solidity" /></a>
+<a href="https://soliditylang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solidity-colored.svg" width="40" height="40" alt="Solidity" title="Solidity" /></a>
 <a>&nbsp;</a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5" /></a>
 <a>&nbsp;</a>
@@ -40,10 +40,4 @@
 
 <!-- GITHUB_STATS:END -->
 
-## :zap: committers.top Rank :
-
-[![committers.top badge](https://user-badge.committers.top/nigeria/YourmixJNR.svg)](https://user-badge.committers.top/nigeria/YourmixJNR)
-
-## :fire: Wakatime Stats :
-
-[![wakatime](https://wakatime.com/badge/user/68a7e582-ae3d-4996-b4d8-f6769baec513.svg)](https://wakatime.com/@68a7e582-ae3d-4996-b4d8-f6769baec513)
+## :zap: committers.top Rank : [![committers.top badge](https://user-badge.committers.top/nigeria/YourmixJNR.svg)](https://user-badge.committers.top/nigeria/YourmixJNR) || :zap: Wakatime Stats : [![wakatime](https://wakatime.com/badge/user/68a7e582-ae3d-4996-b4d8-f6769baec513.svg)](https://wakatime.com/@68a7e582-ae3d-4996-b4d8-f6769baec513)
